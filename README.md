@@ -1,6 +1,5 @@
 # Predictive-Maintenance-using-LSTM
 # Recurrent Neural Networks for Predictive Maintenance
-* Author: Hazem Ben Hadj Salah
 
 
 ## Colab
